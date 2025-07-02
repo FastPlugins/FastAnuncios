@@ -8,10 +8,10 @@
 ## Comandos principais:
 
 - /fastanuncios reload (recarrega a configuração do plugin) - permissão: fastanuncios.admin.reload
-- /anunciar (anuncio) - Usado para fazer  um anúncio
-- /anunciar cancelar - Cancela um anúncio.
+- /anunciar (anuncio) - Usado para fazer  um anúncio - permissão: fastanuncios.command.anunciar
+- /anunciar cancelar - Cancela um anúncio. - permissão: fastanuncios.subcommand.cancelar
 
 # Dependências
 - O plugin NÃO precisa de nenhuma dependência.
 
-#- feito e desenvolvido por ByxYasmin
+Feito e desenvolvido por ByxYasmin
